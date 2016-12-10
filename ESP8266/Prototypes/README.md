@@ -1,0 +1,1 @@
+In this folder we can collect our prototypes. Please under the subfolder create a README.md file and document what were the details of the setup: Sensor type, connection (pin number), link to the tutorial, link to the library. 
